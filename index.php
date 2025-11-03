@@ -9,7 +9,7 @@ include("entete.php")
         <nav>
         <!-- menu principal -->
         </nav>
-<form action="cgiPost.php" method="post">
+<form action="connexion.php" method="post">
 <div>
 <label>Identifiant : <input type="text" name="Identifiant" /></label>
 <label>Mot de passe : <input type="text" name="Mot de passe" /></label>

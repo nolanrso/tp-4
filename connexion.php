@@ -12,5 +12,5 @@ include("pieddepage.php")
 <?php
 $prenom = $_REQUEST["Identifiant"];
 $nom = $_REQUEST["Mot de passe"];
-echo "<p>Bonjour ", $prenom, " ", $nom , "</p>\n";
+echo "<p>Bonjour ", $prenom, "</p>\n";
 ?>
