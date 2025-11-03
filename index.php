@@ -11,8 +11,8 @@ include("entete.php")
         </nav>
 <form action="cgiPost.php" method="post">
 <div>
-<label>Prénom : <input type="text" name="Prenom" /></label>
-<label>Nom : <input type="text" name="Nom" /></label>
+<label>Identifiant : <input type="text" name="Identifiant" /></label>
+<label>Mot de passe : <input type="text" name="Mot de passe" /></label>
 <input type="submit" value="Envoyer"/>
 </div>
 </form>
